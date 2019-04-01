@@ -1,0 +1,22 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['landmark_keyword'] = 'Anahtar Kelime';
+$lang['landmark_parent_category'] = 'Ana Kategori';
+$lang['landmark_select_parent_category'] = 'Ana kategori sbeçin';
+$lang['landmark_select_category'] = 'Kategori seçin';
+$lang['landmark_category'] = 'Kategori';
+$lang['landmark_select_sub_category'] = 'Alt kategori seçin';
+$lang['landmark_sub_category'] = 'Alt kategori';
+$lang['landmark_select_country'] = 'Ülke seçin';
+$lang['landmark_country'] = 'Ülke';
+$lang['landmark_select_region'] = 'İl seçin';
+$lang['landmark_region'] = 'İl';
+$lang['landmark_select_district'] = 'İlçe seçin';
+$lang['landmark_district'] = 'İlçe';
+$lang['landmark_select_metro'] = 'Metro seçin';
+$lang['landmark_metro'] = 'Metro';
+$lang['landmark_select_land_mark'] = 'Varış noktası seçin';
+$lang['landmark_land_mark'] = 'Varış noktası';
+$lang['landmark_distance'] = 'Mesafe';
+$lang['landmark_tag'] = 'Etiket';
+$lang['landmark_landmark'] = 'Varış Noktası';
+/* End of file turkish/landmark_lang.php */

@@ -1,0 +1,22 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['tag_keyword'] = 'Anahtar Kelime';
+$lang['tag_parent_category'] = 'Ana kategori';
+$lang['tag_select_parent_category'] = 'Ana kategori seçin';
+$lang['tag_select_category'] = 'Kategori seçin';
+$lang['tag_category'] = 'Kategori';
+$lang['tag_select_country'] = 'Ülke seçin';
+$lang['tag_country'] = 'Ülke';
+$lang['tag_select_region'] = 'İl seçin';
+$lang['tag_region'] = 'İl';
+$lang['tag_select_district'] = 'İlçe seçin';
+$lang['tag_district'] = 'İl';
+$lang['tag_select_metro'] = 'Metro seçin';
+$lang['tag_metro'] = 'Metro';
+$lang['tag_select_land_mark'] = 'Varış noktası seçin';
+$lang['tag_land_mark'] = 'Varış noktası';
+$lang['tag_distance'] = 'Mesafe';
+$lang['tag_tag'] = 'Etiket';
+$lang['tag_landmark'] = 'Varış noktası';
+$lang['tag_sub_category'] = 'Alt kategori';
+$lang['tag_select_category'] = 'Alt kategori seçin';
+/* End of file turkish/tag_lang.php */

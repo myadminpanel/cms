@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['service_title'] = 'Hizmetler';
+$lang['service_add_title'] = 'Yeni hizmet ekle';
+$lang['service_add_language'] = 'Tercüme ekle';
+$lang['service_add_button'] = 'Ekle';
+$lang['service_edit_button'] = 'Yenile';
+$lang['service_image'] = 'Resim';
+$lang['service_name'] = 'Başlık';
+$lang['service_company'] = 'Şirket';
+$lang['service_description'] = 'Açıklama';
+$lang['service_service_submited'] = 'Hizmet başarıyla gönderildi. Onaylandıktan sonra yayınlanacaktır';
+$lang['service_service_successfully_edited'] = 'Hizmeti başarıyla düzenlediniz. Hizmet onaylandıktan sonra yayınlanacaktır';
+$lang['service_select'] = 'Seçin';
+$lang['service_price'] = 'Hizmetin bedeli';
+$lang['service_upload'] = 'Yükle';
+$lang['service_click_and_change_image'] = 'Tıkla ve resmi deyiş';
+$lang['service_active'] = 'Aktif';
+$lang['service_deactive'] = 'Pasif';
+$lang['service_edit_service'] = 'Hizmeti düzenle';
+/* End of file turkish/service_lang.php */

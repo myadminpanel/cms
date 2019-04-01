@@ -1,0 +1,22 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['landmark_keyword'] = 'Ключевое слово';
+$lang['landmark_parent_category'] = 'Высшая категория';
+$lang['landmark_select_parent_category'] = 'Выберите высшую категорию';
+$lang['landmark_select_category'] = 'Выберите категорию';
+$lang['landmark_category'] = 'Категория';
+$lang['landmark_select_sub_category'] = 'Выберите подкатегория';
+$lang['landmark_sub_category'] = 'Подкатегория';
+$lang['landmark_select_country'] = 'Выберите страну';
+$lang['landmark_country'] = 'Страна';
+$lang['landmark_select_region'] = 'Выберите регион';
+$lang['landmark_region'] = 'Регион';
+$lang['landmark_select_district'] = 'Выберите район';
+$lang['landmark_district'] = 'район ';
+$lang['landmark_select_metro'] = 'Выберите метро';
+$lang['landmark_metro'] = ' Метро';
+$lang['landmark_select_land_mark'] = 'Выберите Ориентир';
+$lang['landmark_land_mark'] = ' Ориентир';
+$lang['landmark_distance'] = 'Расстояние от вас';
+$lang['landmark_tag'] = 'Тег';
+$lang['landmark_landmark'] = ' Ориентир';
+/* End of file russian/landmark_lang.php */

@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['news_title'] = 'Новости';
+$lang['news_add_title'] = 'Добавить новость';
+$lang['news_add_language'] = 'Добавить перевод';
+$lang['news_add_button'] = 'Добавить ';
+$lang['news_edit_button'] = 'Обновить';
+$lang['news_image'] = 'Фото';
+$lang['news_company'] = 'Компания';
+$lang['news_upload'] = 'Скачать';
+$lang['news_news_submited'] = 'Новости успешно добавлены';
+$lang['news_news_successfully_edited'] = 'Новости успешно отредактированы';
+$lang['news_select'] = 'Выбрать';
+$lang['news_click_and_change_image'] = 'Нажмите и измените изображение';
+$lang['news_name'] = 'Заглавие';
+$lang['news_description'] = 'Описание';
+$lang['news_active'] = 'В сети';
+$lang['news_deactive'] = 'Не в сети';
+$lang['news_edit_news'] = 'Редактировать новости';
+$lang['news_author_all_news'] = 'Другие новости от автора';
+/* End of file russian/news_lang.php */

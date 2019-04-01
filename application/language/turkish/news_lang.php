@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['news_title'] = 'Haberler';
+$lang['news_add_title'] = 'Yeni haber ekle';
+$lang['news_add_language'] = 'Çeviri ekle';
+$lang['news_add_button'] = 'Ekle';
+$lang['news_edit_button'] = 'Yenile';
+$lang['news_image'] = 'Resim';
+$lang['news_company'] = 'Şirket';
+$lang['news_upload'] = 'Yükle';
+$lang['news_news_submited'] = 'Haber başarıyla eklendi. Onaylandıktan sonra sayfada yer alacaktır';
+$lang['news_news_successfully_edited'] = 'Haber başarıyla düzenlendi. Haber onaylandıktan sonra sayfada yer alacaktır';
+$lang['news_select'] = 'Seçin';
+$lang['news_click_and_change_image'] = 'Tıkla ve resmi değiştir';
+$lang['news_name'] = 'Başlık';
+$lang['news_description'] = 'Açıklama';
+$lang['news_active'] = 'Aktif';
+$lang['news_deactive'] = 'Pasif';
+$lang['news_edit_news'] = 'Haberi düzenle';
+$lang['news_author_all_news'] = 'Yazarın diğer haberleri';
+/* End of file turkish/news_lang.php */

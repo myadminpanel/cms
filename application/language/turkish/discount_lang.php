@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['discount_title'] = 'Kampanyalar';
+$lang['discount_add_title'] = 'Yeni kampanya ekle';
+$lang['discount_add_language'] = 'Tercüme ekle ';
+$lang['discount_add_button'] = 'Ekle';
+$lang['discount_edit_button'] = 'Yenile';
+$lang['discount_image'] = 'Resim';
+$lang['discount_upload'] = 'Yükle';
+$lang['discount_company'] = 'Şirket';
+$lang['discount_discount_submited'] = 'Kampanyaznj başarıyla eklendi.Onaylandıktan sonra yayınlanacaktır';
+$lang['discount_discount_successfully_edited'] = 'Kampanyanız başarıyla düzenlendi. Kampanya onaylandıktan sonra yayınlanacaktır';
+$lang['discount_select'] = 'Seçin';
+$lang['discount_click_and_change_image'] = 'Tıkla ve resmi değiş';
+$lang['discount_name'] = 'Başlık';
+$lang['discount_description'] = 'Açıklama';
+$lang['discount_date'] = 'Kampanya bitiş tarihi';
+$lang['discount_active'] = 'Aktif';
+$lang['discount_deactive'] = 'Pasif';
+$lang['discount_edit_discount'] = 'Kampanyayı düzenle';
+/* End of file turkish/discount_lang.php */

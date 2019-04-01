@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['service_title'] = 'Услуги';
+$lang['service_add_title'] = 'Добавить новые услуги';
+$lang['service_add_language'] = 'Добавить перевод';
+$lang['service_add_button'] = 'Добавить';
+$lang['service_edit_button'] = 'Обновить';
+$lang['service_image'] = 'Фото';
+$lang['service_name'] = 'Заглавие';
+$lang['service_company'] = 'Компания';
+$lang['service_description'] = 'Описание';
+$lang['service_service_submited'] = 'Услуга успешно добавлена';
+$lang['service_service_successfully_edited'] = 'Услуга успешно отредактирована';
+$lang['service_select'] = 'Выбрать';
+$lang['service_price'] = 'Цена услуги';
+$lang['service_upload'] = 'Загрузить';
+$lang['service_click_and_change_image'] = 'Нажмите и измените фото';
+$lang['service_active'] = 'В сети';
+$lang['service_deactive'] = 'Не в сети';
+$lang['service_edit_service'] = 'Редактировать услуги';
+/* End of file russian/service_lang.php */

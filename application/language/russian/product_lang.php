@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['product_title'] = 'Товары';
+$lang['product_add_title'] = 'Добавить новый товар';
+$lang['product_add_language'] = 'Tərcümə əlavə et';
+$lang['product_add_button'] = 'Добавить ';
+$lang['product_edit_button'] = 'Обновить';
+$lang['product_image'] = 'Фото';
+$lang['product_company'] = 'Компании';
+$lang['product_upload'] = 'Загрузить';
+$lang['product_product_submited'] = 'Товар успешно добавлен';
+$lang['product_product_successfully_edited'] = 'Продукт успешно отредактирован';
+$lang['product_name'] = 'Заглавие';
+$lang['product_description'] = 'Описание';
+$lang['product_select'] = 'Выбрать';
+$lang['product_click_and_change_image'] = 'Нажмите и измените изображение';
+$lang['product_price'] = 'Цена ТОВАРА';
+$lang['product_active'] = 'В сети';
+$lang['product_deactive'] = 'Не в сети';
+$lang['product_edit_product'] = 'Изменить товар';
+/* End of file russian/product_lang.php */

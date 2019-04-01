@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['group_index_title'] = 'Группа';
+$lang['group_index_description'] = 'Список групп';
+$lang['group_table_head_id'] = 'ID';
+$lang['group_table_head_name'] = 'Имя';
+$lang['group_table_head_description'] = 'Описание';
+$lang['group_table_head_parent'] = 'Исходный';
+$lang['group_table_head_action'] = 'Действие';
+$lang['group_create_title'] = 'Создать группу';
+$lang['group_create_description'] = 'Создать новую группу';
+$lang['group_edit_title'] = 'Редактировать группу';
+$lang['group_edit_description'] = 'Редактировать группу';
+$lang['group_form_label_name'] = 'Имя';
+$lang['group_form_label_description'] = 'Описание';
+$lang['group_form_placeholder_name'] = 'Имя';
+$lang['group_form_placeholder_description'] = 'Описание';
+$lang['group_tab_permission'] = 'Разрешение';
+$lang['group_form_success_create'] = 'Группа успешно создана';
+$lang['group_form_success_edit'] = 'Группа успешно обновлена';
+/* End of file russian/administrator/group_lang.php */

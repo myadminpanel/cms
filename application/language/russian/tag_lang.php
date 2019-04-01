@@ -1,0 +1,22 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['tag_keyword'] = 'Ключевое слово';
+$lang['tag_parent_category'] = 'Высшая категория';
+$lang['tag_select_parent_category'] = 'Выберите высшую категорию';
+$lang['tag_select_category'] = 'Выберите категорию';
+$lang['tag_category'] = 'Категория';
+$lang['tag_select_country'] = 'Выберите страну';
+$lang['tag_country'] = 'Страна';
+$lang['tag_select_region'] = 'Выберите регион';
+$lang['tag_region'] = 'Регион';
+$lang['tag_select_district'] = 'Выберите район';
+$lang['tag_district'] = 'Район';
+$lang['tag_select_metro'] = 'Выберите Метро';
+$lang['tag_metro'] = 'Метро';
+$lang['tag_select_land_mark'] = 'Выберите Ориентир';
+$lang['tag_land_mark'] = ' Ориентир';
+$lang['tag_distance'] = 'Расстояние от вас';
+$lang['tag_tag'] = 'Тег';
+$lang['tag_landmark'] = ' Ориентир';
+$lang['tag_sub_category'] = 'Подкатегория';
+$lang['tag_select_category'] = 'Выбрать категорию';
+/* End of file russian/tag_lang.php */

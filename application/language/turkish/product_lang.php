@@ -1,0 +1,20 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['product_title'] = 'Ürünler';
+$lang['product_add_title'] = 'Yeni ürün ekle';
+$lang['product_add_language'] = 'Tercüme ekle';
+$lang['product_add_button'] = 'Ekle';
+$lang['product_edit_button'] = 'Yenile';
+$lang['product_image'] = 'Resim';
+$lang['product_company'] = 'Şirket';
+$lang['product_upload'] = 'Yükle';
+$lang['product_product_submited'] = 'Ürün başarıyla gönderildi. Onaylandıktan sonra yayınlanacaktır';
+$lang['product_product_successfully_edited'] = 'Ürün başarıyla düzenlendi. Ürün  onaylandıktan sonra yayınlanacaktır';
+$lang['product_name'] = 'Başlık';
+$lang['product_description'] = 'Açıklama';
+$lang['product_select'] = 'Seçin';
+$lang['product_click_and_change_image'] = 'Tıkla ve resmi değiştir';
+$lang['product_price'] = 'Ürün bedeli';
+$lang['product_active'] = 'Aktif';
+$lang['product_deactive'] = 'Pasif';
+$lang['product_edit_product'] = 'Ürünü düzenle';
+/* End of file turkish/product_lang.php */

@@ -1,0 +1,27 @@
+<?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['permission_index_title'] = 'Разрешение';
+$lang['permission_index_description'] = 'Список разрешений';
+$lang['permission_table_head_id'] = 'ID';
+$lang['permission_table_head_name'] = 'Имя';
+$lang['permission_table_head_directory'] = 'Каталог';
+$lang['permission_table_head_controller'] = 'Контроллер';
+$lang['permission_table_head_method'] = 'Метод';
+$lang['permission_table_head_description'] = 'Описание';
+$lang['permission_table_head_action'] = 'Действие';
+$lang['permission_create_title'] = 'Создать разрешение';
+$lang['permission_create_description'] = 'Создать новое разрешение';
+$lang['permission_edit_title'] = 'Редактировать разрешение';
+$lang['permission_edit_description'] = 'Редактировать разрешение';
+$lang['permission_form_label_name'] = 'Имя';
+$lang['permission_form_label_directory'] = 'Каталог';
+$lang['permission_form_label_controller'] = 'Контроллер';
+$lang['permission_form_label_method'] = 'Метод';
+$lang['permission_form_label_description'] = 'Описание';
+$lang['permission_form_placeholder_name'] = 'Имя';
+$lang['permission_form_placeholder_directory'] = 'Каталог';
+$lang['permission_form_placeholder_controller'] = 'Контроллер';
+$lang['permission_form_placeholder_method'] = 'Метод';
+$lang['permission_form_placeholder_description'] = 'Описание';
+$lang['permission_form_success_create'] = 'Разрешение успешно создано';
+$lang['permission_form_success_edit'] = 'Разрешения успешно обновлены';
+/* End of file russian/administrator/permission_lang.php */
